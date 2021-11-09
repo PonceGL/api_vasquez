@@ -1,16 +1,7 @@
 const { Router } = require("express");
 const router = Router();
-// const config = require("../../config.producction");
-const config = require("../../config");
 const articulos = require("../../database/articulos.json");
 const imagenes = require("../../database/imagenes.json");
-
-const rest = new (require("rest-mssql-nodejs"))({
-  user: config.DB_USER,
-  password: config.DB_PASSWORD,
-  server: config.DB_HOST,
-  database: config.DB_DATABASE,
-});
 
 router.get("/", function (req, res) {
   if (req.method !== "GET") {

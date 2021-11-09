@@ -1,0 +1,754 @@
+[
+  {
+    "articulo_id": "488169",
+    "name": "ADEBLOK MELON 40 KG",
+    "description": "ADEBLOK MELON 40 KG",
+    "category": "ACABADOS",
+    "main_category": "ADHESIVOS Y BOQUILLAS",
+    "brand": "LOWE´S"
+  },
+  {
+    "articulo_id": "000143",
+    "name": "IMPERMEABILIZANTE 5 AÑOS TERRA",
+    "description": "IMPERMEABILIZANTE 5 AÑOS TERRACOTA GACO 19 L",
+    "category": "ACABADOS",
+    "main_category": "IMPERMEABILIZANTES",
+    "brand": "TERRACOTA"
+  },
+  {
+    "articulo_id": "000142",
+    "name": "IMPERMEABILIZANTE 3 AÑOS TERRA",
+    "description": "IMPERMEABILIZANTE 3 AÑOS TERRACOTA  GACO 19 L",
+    "category": "ACABADOS",
+    "main_category": "IMPERMEABILIZANTES",
+    "brand": "TERRACOTA"
+  },
+  {
+    "articulo_id": "57392",
+    "name": "ALBERCA SEMI INFLABLE REDONDA",
+    "description": "ALBERCA SEMI INFLABLE REDONDA 1.83CMX51CM (6C20PULG)",
+    "category": "HOGAR",
+    "main_category": "ALBERCAS",
+    "brand": "POR DEFECTO"
+  },
+  {
+    "articulo_id": "57241",
+    "name": "ALBERCA INFLABLE 2+ AÑOS RED.",
+    "description": "ALBERCA INFLABLE 2+ AÑOS RED. 1.52X.38CM",
+    "category": "HOGAR",
+    "main_category": "ALBERCAS",
+    "brand": "POR DEFECTO"
+  },
+  {
+    "articulo_id": "57265",
+    "name": "ALBERCA INFLABLE RED AZUL 2.44",
+    "description": "ALBERCA INFLABLE RED AZUL 2.44X66CM (8X26 PULG)",
+    "category": "HOGAR",
+    "main_category": "ALBERCAS",
+    "brand": "POR DEFECTO"
+  },
+  {
+    "articulo_id": "CKSBSM1600-013",
+    "name": "SANDWICHERA 2 SANDWICHES FLAT",
+    "description": "SANDW ICHERA FLAT  PLAT E MARCA SUNBEAM",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "KOR-1NGM",
+    "name": "HORNO DE MICROONDAS 1.1 PIES A",
+    "description": "HORNO DE MICROONDAS 1.1 PIES ACERO ESPEJO MARCA DAEWOO",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "AC121TD",
+    "name": "AIRE ACONDICIONADO ON/OF 12000",
+    "description": "AIRE ACONDICIONADO ON/OF 12000 BTUS 110V R410 SOLO FRIO MARCA HISENSE",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "DFR-25210GMDX",
+    "name": "REFRIGERADOR  9 PIES COLOR SIL",
+    "description": "REFRIGERADOR  9 PIES COLOR SILVER CON DESPACHADOR DE AGUA MARCA WINIA/DAEWOO",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "TR-DJ15",
+    "name": "BOCINA PORT AT IL 15\" DJ, C/T",
+    "description": "BOCINA PORTATIL 15\" DJ, C/T RIPIE Y MICROFONO, USB, BT  MARCA T REO",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "DFR-32210GMDX",
+    "name": "REFRIGERADOR 11 PIES COLOR SIL",
+    "description": "REFRIGERADOR 11 PIES COLOR SILVER C/DESPACHADOR DE AGUA MARCA WINIA/DAEWOO",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "AF5334D",
+    "name": "ESTUFA 30\" 6 QUEMADORES COLOR",
+    "description": "ESTUFA 30\" 6 QUEMADORES COLOR SILVER MARCA ACROS",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "DWF-DG1B346CWW3",
+    "name": "LAVADORA 17KG AUTOMATICA INOX",
+    "description": "LAVADORA 17KG AUTOMATICA INOX MARCA DAEWOO / WINIA",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "EK-501G",
+    "name": "ESTUFA 30\" 6 QUEMADORES 2 JUMB",
+    "description": "ESTUFA 30\" 6 QUEMADORES GRIS ZURICH MARCA KOBLENZ",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "MLTI17N2SGDW",
+    "name": "LAVADORA 17 KG AUTOMATICA PANE",
+    "description": "LAVADORA 17 KG AUTOMATICA COLOR BLANCA MARCA MIDEA",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "8MWTW1612MJQ",
+    "name": "LAVADORA 16 KG AUTOMATICA MARC",
+    "description": "LAVADORA 16 KG AUTOMATICA MARCA WHIRLPOOL",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "MAF4N2SDSS",
+    "name": "FREIDORA DE AIRE ELECTRICA 4L",
+    "description": "FREIDORA DE AIRE ELECTRICA 4L MARCA MIDEA",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "NAW1001S",
+    "name": "EST UFA 20\" 4 QUEMADORES COLOR",
+    "description": "ESTUFA 20\" 4 QUEMADORES COLOR SILVER MARCA ACROS",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "31116R",
+    "name": "HORNO TOSTADOR ELECTRICO 4 REB",
+    "description": "HORNO TOSTADOR ELECTRICO 4 REBANADA PROCTOR SILEX HAMILTON BEACH",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "HL-145V",
+    "name": "HIDROLAVADORA 1400 PSI, COLOR",
+    "description": "HIDROLAVADORA 1400 PSI, COLOR VERDE MARCA KOBLENZ",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "HL-270 V",
+    "name": "HIDROLAVADORA 1650 PSI, COLOR",
+    "description": "HIDROLAVADORA 1650 PSI, COLOR VERDE/NEGRO MARCA KOBLENZ",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "MRTNC09G2NCS",
+    "name": "REFRIGERADOR   9 PIES 2 PUERTA",
+    "description": "REFRIGERADOR   9 PIES 2 PUERTAS COLOR SILVER MARCA MIDEA",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "MS23K3513AW",
+    "name": "HORNO DE MICROONDAS 0.8 PIES B",
+    "description": "HORNO DE MICROONDAS 0.8 PIES BLANCO/NEGRO MARCA SAMSUNG",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "WD-2.5 K",
+    "name": "ASPIRADORA SECO MOJADO 2.5 GAL",
+    "description": "ASPIRADORA SECO MOJADO 2.5 GALONES 1.75HP MARCA KOBLENZ",
+    "category": "HOGAR",
+    "main_category": "LINEA BLANCA",
+    "brand": "LINEA BLANCA"
+  },
+  {
+    "articulo_id": "CRPL",
+    "name": "CREST BLANCO PLUS 20 KG",
+    "description": "CREST BLANCO PLUS 20 KG",
+    "category": "ACABADOS",
+    "main_category": "ADHESIVOS Y BOQUILLAS",
+    "brand": "CREST"
+  },
+  {
+    "articulo_id": "11386",
+    "name": "MACHETE DOBLE FILO 18 CON MANG",
+    "description": "MACHETE DOBLE FILO 18 CON MANGO INYECTADO",
+    "category": "FERRETERIA",
+    "main_category": null,
+    "brand": "TRUPER"
+  },
+  {
+    "articulo_id": "023014",
+    "name": "JUEGO 6 VASOS COSMOS FDO ATOMI",
+    "description": "JUEGO 6 VASOS COSMOS FDO ATOMIZADOR",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "0231881",
+    "name": "TARRO POLO DEC AMOY Y CAFE 430",
+    "description": "TARRO POLO DEC AMOY Y CAFE 4307 B6R",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "0232004",
+    "name": "JUEGO DE TERNOS 8 PZAS",
+    "description": "JUEGO DE TERNOS 8 PZAS",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "023816",
+    "name": "JUEGO IDEAL CLASICO UVA 12 PZA",
+    "description": "JUEGO IDEAL CLASICO UVA 12 PZA",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "1213040",
+    "name": "VASO CAFETERO COLORES",
+    "description": "VASO CAFETERO COLORES",
+    "category": "COCINA",
+    "main_category": "TERMOS Y BOTELLAS",
+    "brand": "PLASTYMET"
+  },
+  {
+    "articulo_id": "209068",
+    "name": "CAFETERA 1 TZA MEDEA CM-100",
+    "description": "CAFETERA 1 TZA MEDEA CM-100",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "TAURUS"
+  },
+  {
+    "articulo_id": "209408",
+    "name": "LICUADORA RAGAZZA VIOLETTE",
+    "description": "LICUADORA RAGAZZA VIOLETTE",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "TAURUS"
+  },
+  {
+    "articulo_id": "278115",
+    "name": "BROCALITO MANDARINA",
+    "description": "BROCALITO MANDARINA",
+    "category": "COCINA",
+    "main_category": "CRISTALERÍA",
+    "brand": "MITTORI"
+  },
+  {
+    "articulo_id": "209425",
+    "name": "CAFETERA CM-100 BERRY",
+    "description": "CAFETERA CM-100 BERRY",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "TAURUS"
+  },
+  {
+    "articulo_id": "1240076",
+    "name": "MAL22 PLATO ALUMINIO P/PAY AL-",
+    "description": "MAL22 PLATO ALUMINIO P/PAY AL-22 CM",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "IMPERIAL"
+  },
+  {
+    "articulo_id": "209354",
+    "name": "M91606600 BATIDORA DE INMERSIO",
+    "description": "M91606600 BATIDORA DE INMERSION BI200 PEARL",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "TAURUS"
+  },
+  {
+    "articulo_id": "3191567",
+    "name": "MX-108 CUCHARON ELEGANTE",
+    "description": "MX-108 CUCHARON ELEGANTE",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "PLASTY HOME"
+  },
+  {
+    "articulo_id": "376457",
+    "name": "CUCHARA SERVICIO 36 CMS.",
+    "description": "CUCHARA SERVICIO 36 CMS.",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "IMCOSA"
+  },
+  {
+    "articulo_id": "496152",
+    "name": "22611 TOSTADOR BLANCO",
+    "description": "22611 TOSTADOR BLANCO",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "PROCTOR SILEX"
+  },
+  {
+    "articulo_id": "883115",
+    "name": "VAL145 CUCHARA SPAGHETTI ADARA",
+    "description": "VAL145 CUCHARA SPAGHETTI ADARA EN NYLON",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "966071",
+    "name": "RC-219 MAQUINA P/MALTEADAS",
+    "description": "RC-219 MAQUINA P/MALTEADAS",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "MT DE MEXICO"
+  },
+  {
+    "articulo_id": "0231294",
+    "name": "9025 TAZON MANZANA LUNITA",
+    "description": "9025 TAZON MANZANA LUNITA",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "023287",
+    "name": "T021 TAZON BATIDORA MEDIANO 19",
+    "description": "T021 TAZON BATIDORA MEDIANO 1950 ML.",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "023427",
+    "name": "9952 CENICERO CUADRADO 000",
+    "description": "9952 CENICERO CUADRADO 000",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "LIBBEY"
+  },
+  {
+    "articulo_id": "059013",
+    "name": "DESCLARADOR",
+    "description": "DESCLARADOR",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "TL PLASTICOS"
+  },
+  {
+    "articulo_id": "1180017",
+    "name": "CUCHARON #10",
+    "description": "CUCHARON #10",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "ALCOVA"
+  },
+  {
+    "articulo_id": "218064",
+    "name": "320026-AS TAPA P/MICRO ONDAS",
+    "description": "320026-AS TAPA P/MICRO ONDAS",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "FOOD KEEPERS"
+  },
+  {
+    "articulo_id": "278444",
+    "name": "0568 BROCAL BARRILTO DE VIDRIO",
+    "description": "0568 BROCAL BARRILTO DE VIDRIO 1LT",
+    "category": "COCINA",
+    "main_category": "CRISTALERÍA",
+    "brand": "MITTORI"
+  },
+  {
+    "articulo_id": "376005",
+    "name": "TENEDOR MESA ALCATRAZ",
+    "description": "TENEDOR MESA ALCATRAZ",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "IMCOSA"
+  },
+  {
+    "articulo_id": "376459",
+    "name": "CUCHARA SERVICIO 26 CMS.",
+    "description": "CUCHARA SERVICIO 26 CMS.",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "IMCOSA"
+  },
+  {
+    "articulo_id": "883029",
+    "name": "VAL083 MOLDE ROSCA CHICA",
+    "description": "VAL083 MOLDE ROSCA CHICA",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "883051",
+    "name": "VAL066 VOLTEADOR RANURADO MEDI",
+    "description": "VAL066 VOLTEADOR RANURADO MEDIANO 15.67298",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "109051",
+    "name": "COLADOR PASTAS Y VERDURAS W073",
+    "description": "COLADOR PASTAS Y VERDURAS W073",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "PLASVIC"
+  },
+  {
+    "articulo_id": "109127",
+    "name": "PANERA/ENSALADERA MONTECARLO C",
+    "description": "PANERA/ENSALADERA MONTECARLO C/TAPA W070*T",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "PLASVIC"
+  },
+  {
+    "articulo_id": "128124",
+    "name": "CHAROLA ESCURRIDOR BENNI C/TAP",
+    "description": "CHAROLA ESCURRIDOR BENNI C/TAPA",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "EUROPLAS"
+  },
+  {
+    "articulo_id": "664115",
+    "name": "4177 MOLDE P/GELATINA GRANDE",
+    "description": "4177 MOLDE P/GELATINA GRANDE",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "ALKAR"
+  },
+  {
+    "articulo_id": "753497",
+    "name": "S1354 RALLADOR",
+    "description": "S1354 RALLADOR",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "MEX ASIA"
+  },
+  {
+    "articulo_id": "0020191",
+    "name": "371108 PORTAGARRAFON SOLIDO CO",
+    "description": "371108 PORTAGARRAFON SOLIDO COLORES",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "ARMHER"
+  },
+  {
+    "articulo_id": "035208",
+    "name": "HOG036 PORTACUBIERTOS",
+    "description": "HOG036 PORTACUBIERTOS",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "APAN"
+  },
+  {
+    "articulo_id": "052353",
+    "name": "1860 TAPA P/MICROONDAS",
+    "description": "1860 TAPA P/MICROONDAS",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "CUBASA"
+  },
+  {
+    "articulo_id": "0641102",
+    "name": "16906 REBANADOR DE JITOMATE RO",
+    "description": "16906 REBANADOR DE JITOMATE ROSA",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "EKCOVASCONIA"
+  },
+  {
+    "articulo_id": "1240055",
+    "name": "MOLDE P/MINI PAY AL-09 CM",
+    "description": "MOLDE P/MINI PAY AL-09 CM",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "IMPERIAL"
+  },
+  {
+    "articulo_id": "209182",
+    "name": "M92401500 EXPRIMIDOR TC700",
+    "description": "M92401500 EXPRIMIDOR TC700",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "TAURUS"
+  },
+  {
+    "articulo_id": "278445",
+    "name": "0567 BROCAL BARRILITO DE VIDRI",
+    "description": "0567 BROCAL BARRILITO DE VIDRIO 2LT",
+    "category": "COCINA",
+    "main_category": "CRISTALERÍA",
+    "brand": "MITTORI"
+  },
+  {
+    "articulo_id": "293167",
+    "name": "MX1200 BATIDORA PEDESTAL",
+    "description": "MX1200 BATIDORA PEDESTAL",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "BLACK"
+  },
+  {
+    "articulo_id": "376007",
+    "name": "CUCHILLO MESA ALCATRAZ.",
+    "description": "CUCHILLO MESA ALCATRAZ.",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "IMCOSA"
+  },
+  {
+    "articulo_id": "530046",
+    "name": "ENSALADERA GRANDE C/TAPA",
+    "description": "ENSALADERA GRANDE C/TAPA",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "ORTIPLAZTIK"
+  },
+  {
+    "articulo_id": "883001",
+    "name": "VAL000 CUCHARA LISA NYLON",
+    "description": "VAL000 CUCHARA LISA NYLON",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "883056",
+    "name": "VAL072 BATIDOR",
+    "description": "VAL072 BATIDOR",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "883062",
+    "name": "VAL006 ESPUMADERA NYLON",
+    "description": "VAL006 ESPUMADERA NYLON",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "883148",
+    "name": "VAL203 MACHACADOR BARRA CROMAD",
+    "description": "VAL203 MACHACADOR BARRA CROMADO",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "362004",
+    "name": "CUCHARON ALUMINIO #12 MXCU12",
+    "description": "CUCHARON ALUMINIO #12 MXCU12",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "LA MEXICANA"
+  },
+  {
+    "articulo_id": "415213",
+    "name": "MOLCAJETE CAFE",
+    "description": "MOLCAJETE CAFE",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "BORIS"
+  },
+  {
+    "articulo_id": "883004",
+    "name": "VAL003 CUCHARON EN NYLON",
+    "description": "VAL003 CUCHARON EN NYLON",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "883005",
+    "name": "VAL004 VOLTEADOR CURVO EN NYLO",
+    "description": "VAL004 VOLTEADOR CURVO EN NYLON",
+    "category": "COCINA",
+    "main_category": "UTENSILIOS",
+    "brand": "BARQUERA"
+  },
+  {
+    "articulo_id": "0020171",
+    "name": "30709 PANERA PASTELERA",
+    "description": "30709 PANERA PASTELERA",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "ARMHER"
+  },
+  {
+    "articulo_id": "007009",
+    "name": "CUCHARA COCINA",
+    "description": "CUCHARA COCINA",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "CERPLAST"
+  },
+  {
+    "articulo_id": "033183",
+    "name": "A344-4P PORTA PAN 4.2 LTS.",
+    "description": "A344-4P PORTA PAN 4.2 LTS.",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "ALICA"
+  },
+  {
+    "articulo_id": "035029",
+    "name": "HOG001 COLADOR 21",
+    "description": "HOG001 COLADOR 21",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "APAN"
+  },
+  {
+    "articulo_id": "0610011",
+    "name": "ESPATULA MISERABLE",
+    "description": "ESPATULA MISERABLE",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "TERRONES"
+  },
+  {
+    "articulo_id": "966039",
+    "name": "RC-799R BATIDORA C/TAZON 5 VEL",
+    "description": "RC-799R BATIDORA C/TAZON 5 VEL.",
+    "category": "COCINA",
+    "main_category": "ELECTRODOMÉSTICOS",
+    "brand": "MT DE MEXICO"
+  },
+  {
+    "articulo_id": "0060621",
+    "name": "TAZON HERMETICO #2 C/TAPA",
+    "description": "TAZON HERMETICO #2 C/TAPA",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "CUPLASA"
+  },
+  {
+    "articulo_id": "013067",
+    "name": "C135T CONTENEDOR 135 LTS TACHO",
+    "description": "C135T CONTENEDOR 135 LTS TACHO C/TAPA",
+    "category": "HOGAR",
+    "main_category": null,
+    "brand": "KARTELL"
+  },
+  {
+    "articulo_id": "0280051",
+    "name": "BUDINERA NO. 55",
+    "description": "BUDINERA NO. 55",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "VAP 2000"
+  },
+  {
+    "articulo_id": "0280071",
+    "name": "VAPORERA NO. 45",
+    "description": "VAPORERA NO. 45",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "VAP 2000"
+  },
+  {
+    "articulo_id": "0280161",
+    "name": "BUDINERA NO. 40",
+    "description": "BUDINERA NO. 40",
+    "category": "COCINA",
+    "main_category": null,
+    "brand": "VAP 2000"
+  },
+  {
+    "articulo_id": "038002",
+    "name": "750 HIELERA MEDIANA",
+    "description": "750 HIELERA MEDIANA",
+    "category": "COCINA",
+    "main_category": "HIELERAS",
+    "brand": "NAVIEMPAQUES"
+  },
+  {
+    "articulo_id": "1309001",
+    "name": "PT-001 CLARASOL 1 LT.",
+    "description": "PT-001 CLARASOL 1 LT.",
+    "category": "HOGAR",
+    "main_category": "LIMPIEZA",
+    "brand": "CLARASOL"
+  },
+  {
+    "articulo_id": "1309004",
+    "name": "PTI-014 CLARASOL MASCOTAS 1 LT",
+    "description": "PTI-014 CLARASOL MASCOTAS 1 LT.",
+    "category": "HOGAR",
+    "main_category": "LIMPIEZA",
+    "brand": "CLARASOL"
+  },
+  {
+    "articulo_id": "1450251",
+    "name": "CONTENEDOR BAJO NO. 2",
+    "description": "CONTENEDOR BAJO NO. 2",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "RIM"
+  },
+  {
+    "articulo_id": "3191093",
+    "name": "MX-033 PETCILINDRO SPORT 850 M",
+    "description": "MX-033 PETCILINDRO SPORT 850 ML.",
+    "category": "COCINA",
+    "main_category": "TERMOS Y BOTELLAS",
+    "brand": "PLASTY HOME"
+  },
+  {
+    "articulo_id": "3191231",
+    "name": "MX-125R  MOSTACERO 125 ML. ROJ",
+    "description": "MX-125R  MOSTACERO 125 ML. ROJO",
+    "category": "COCINA",
+    "main_category": "PLÁSTICOS",
+    "brand": "PLASTY HOME"
+  }
+]

@@ -3,7 +3,7 @@ const router = Router();
 // const config = require("../../config.producction");
 const config = require("../../config");
 const articulos = require("../../database/articulos.json");
-// const imagenes = require("../../database/imagenes.json");
+const imagenes = require("../../database/imagenes.json");
 
 const rest = new (require("rest-mssql-nodejs"))({
   user: config.DB_USER,
@@ -132,24 +132,24 @@ router.get("/api/articulos/nombre/:id", async (req, res) => {
 
 // Imagen por producto
 
-// router.get("/api/imagenes/:id", async (req, res) => {
-//   if (req.method !== "GET") {
-//     res
-//       .status(500)
-//       .json({ message: "Lo sentimos, sólo aceptamos solicitudes GET" });
-//   }
+router.get("/api/imagenes/:id", async (req, res) => {
+  if (req.method !== "GET") {
+    res
+      .status(500)
+      .json({ message: "Lo sentimos, sólo aceptamos solicitudes GET" });
+  }
 
-//   const id = req.params.id;
+  const id = req.params.id;
 
-//   const result = imagenes.filter((item) => item.id === id);
+  const result = imagenes.filter((item) => item.id === id);
 
-//   result &&
-//     res.status(200).json({
-//       name: `Imagen del articulo con la clave ${id}`,
-//       method: req.method,
-//       total: result.length,
-//       data: result,
-//     });
-// });
+  result &&
+    res.status(200).json({
+      name: `Imagen del articulo con la clave ${id}`,
+      method: req.method,
+      total: result.length,
+      data: result,
+    });
+});
 
 module.exports = router;
